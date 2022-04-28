@@ -34,7 +34,7 @@ I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2
 ## Setting up
 
 1. **MAMP**
-I downloaded and set <a href="https://www.mamp.info/en/mac/">MAMP</a> locally. 
+- I downloaded and set <a href="https://www.mamp.info/en/mac/">MAMP</a> locally. 
 
 
 2. **Data**
