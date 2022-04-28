@@ -25,7 +25,6 @@
     - [**Code**](#code)
     - [**Acknowledgements**](#acknowledgements)
 
-## UX
 
 ### Project Goals
 
@@ -34,46 +33,31 @@ I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2
 ## Setting up
 
 1. **MAMP**
-- I downloaded and set <a href="https://www.mamp.info/en/mac/">MAMP</a> locally. 
+    - I downloaded and set <a href="https://www.mamp.info/en/mac/">MAMP</a> locally. 
 
 
 2. **Data**
-I added all the data on MySQL that I will be using on the project such as the address of the stores, opening and closing times, Store name and the coordinates. 
+    - I added all the data on MySQL that I will be using on the project such as the address of the stores, opening and closing times, Store name and the coordinates. 
 
 
 3. **Installed tailwindcss**
-I integrated <a href="https://tailwindcss.com/">tailwindcss</a> into my project. 
+    - I integrated <a href="https://tailwindcss.com/">tailwindcss</a> into my project. 
 
-
-4. **Started Coding the FrontEnd**
-    - I have added a feature whenever the user click on a card, there is a counter which counts it. 
-
-
-5. **Win modals** 
-    - When the user has completed the game a modal will appear, with the time it took them to complete and an option to play again. 
-
-<div align="center">
-<img src="images/wireframes/success.jpeg" alt="Screenshot" >
-</div>
 
 ## Technologies and Code Used
 
 - This project uses HTML, CSS and JavaScript programming languages.
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-- [Gitpod](https://www.gitpod.io/) 
+- [PHP](https://www.php.net/)
+    - The project uses **PHP** to receive data from database.
+- [Google Maps API](https://developers.google.com/maps)
+    - The project uses **Google Maps API** to show where the Sainsbury's Store are.
+- [Tailwindcss](https://tailwindcss.com/)
+    - The project uses **Tailwindcss** for the styling.
+- [Visual Studio Code](https://code.visualstudio.com/) 
     - Developer used **Gitpod** to create the game in. 
-- [Google Fonts](https://fonts.google.com/)
-    - The project uses **Google fonts** to style the website fonts.
-- [ShutterStock](https://www.shutterstock.com/)
-    - All of my images used in the game were from Shutterstock
 - [GitHub](https://github.com/)
     - This project uses **GitHub** to store and share all project code remotely. 
     - The new GitHub Projects planner was utilised to plan and keep track of this project. This project plan can be viewed [here](https://github.com/AJGreaves/picflip/projects/1).
-- [Illustrator](www.adobe.com/Illustrator)
-    - This project used tools in **Illustrator** to edit, crop and save images into png.
-- [Timer](https://www.w3schools.com/howto/howto_js_countdown.asp)
-    - I used this timer in my project to help time the user on how long it takes the to complete the game.
 
 ## Testing 
 
@@ -81,11 +65,11 @@ Testing information can be found in separate [testing.md](testing.md) file
 
 ## Deployment
 
-This project was developed using the [Gitpod](https://www.gitpod.io/), committed to git and pushed to GitHub. 
+This project was developed using [Visual Studio Code](https://code.visualstudio.com/), committed to git and pushed to GitHub. 
 
-To deploy SuperHeros! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/memory_game), the following steps were taken: 
+To deploy SuperHeros! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/store-name), the following steps were taken: 
 1. Log into GitHub. 
-2. From the list of repositories on the screen, select **afratetlay/memory_game**.
+2. From the list of repositories on the screen, select **afratetlay/store-name**.
 3. From the menu items near the top of the page, select **Settings**.
 4. Scroll down to the **GitHub Pages** section.
 5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
@@ -98,19 +82,9 @@ To deploy SuperHeros! to GitHub Pages from its [GitHub repository](https://githu
 
 - All text in this project was written by the developer.
 
-### Media
-
-#### Images
-- The card images of the young superheroes were from [Shutterstock](https://www.shutterstock.com/).
-
-### Acknowledgements
-
-Special thanks to: 
-- Mentor - Adegbenga Adeye, who has supported me through the project. 
 
 
 #### Disclaimer
-The content of this website is for the milstone project 2.
 
 Thank you for taking your time to read this and if you haven't please have a go at the game. 
 
