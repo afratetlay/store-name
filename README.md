@@ -29,94 +29,23 @@
 
 ### Project Goals
 
-I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2.2451148/1/all">Sainsbury's store locator.</a>
+I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2.2451148/1/all">Sainsbury's store locator.</a> I wanted to expand my knowledge and create a project where I can integrate PHP, Google API, MySQL through MAMP. 
 
-#### Player goals
+## Setting up
 
-The target audience for this game is 3 - 6 years old. 
-
-Players goals are:
-- A fun game to play.
-- Different superhero characters
-- 3 levels
-- Easy to use
-
-Superheros is a interactive game as it helps the children with their memory skills, as there are different heros which the children have to match and there are 3 levels which can help increase their memory at a young age whilst they are in the developing stage. 
-
-#### Parental goals
-
-Nowadays parents are reliant on technology to entertain the children as it has become such a big part in our lives, to make sure 
-
-Parents of pre-school children have a large amount of say about what games their children are exposed to, 
-therefore parental needs must also be at the forefront of any project designed for children in this age group. 
-
-Parent's goals are:
-- The parents goal for this game is to help their child with their memory, by the different levels there are. The children will be engaged as the memory game is based on superheros. 
-
-#### User Stories
-
-As a player aged between 1-5 years old, I want:
-1. The game was created to easily navigate around the game as it is aimed for children. 
-2. The large button are easy for the children to access for their small fingers. 
-4. The ability for the children to play the game and pay attention was important for me, that was the reason why i chose to do superheros as children love them. 
-
-### Design Choices
-
-The overall feel of the game is one that is designed for children to enjoy. The following design choices were made with this in mind:
-
-**Fonts**
-
-- The primary font **Bangers, cursive;** was chosen because it was the closest font that resembled a superhero comic book style. 
-
-**Colours**
-
-- I wanted the colours to reflect on comic books and superhero, the pink strip background reminded me of comic books and the blue card makes it stand out. 
-
-**Styling**
-
-- I have made sure the styling of the game is appealing to the eye by the various colours and the style of the cards that I have used. 
-
-**Backgrounds**
-
-- The background image of the pink stripes, again, mimics a superhero comic book. 
-
-**Card images**
-
-- I decided to use Batman on the cards, as most of the children are familar with Batman and he is one of the famous ones. 
-
-### Wireframes
-
-These wireframes were created by hand. 
-
-## Features
- 
-### Existing Features
-
-1. **Player info modal**
-- Player can choose between "easy", "medium" and "hard" mode
-- Once chosen, the cards will appear and the as soon as the player clicks on the card, the timer will start and tracks the amount of moves you take.
-<div align="center">
-<img src="images/wireframes/levels.jpeg" alt="Screenshot" >
-</div>
+1. **MAMP**
+I downloaded and set <a href="https://www.mamp.info/en/mac/">MAMP</a> locally. 
 
 
-2. **Dashboard**
-    - The game dashboard contains the time, moves and the cards.
+2. **Data**
+I added all the data on MySQL that I will be using on the project such as the address of the stores, opening and closing times, Store name and the coordinates. 
 
-<div align="center">
-<img src="images/wireframes/cards" alt="Screenshot"><br>
-</div>
 
-3. **Difficulty selection buttons**
-    - Players can select from three difficulty levels: Easy (8 cards), Medium (12 cards) and Hard (16 cards).
-    - The difficulty buttons are coloured green, yellow and red for users who can't read to tell them apart.
-    - Selecting any of these buttons turns any face-up cards back over and reshuffles the cards.
+3. **Installed tailwindcss**
+I integrated <a href="https://tailwindcss.com/">tailwindcss</a> into my project. 
 
-<div align="center">
-<img src="images/wireframes/cards.jpeg" alt="Screenshot" >
-</div><br>
 
-4. **Turns counter**
+4. **Started Coding the FrontEnd**
     - I have added a feature whenever the user click on a card, there is a counter which counts it. 
 
 
