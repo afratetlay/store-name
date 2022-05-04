@@ -30,8 +30,13 @@ I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2
     - I integrated <a href="https://tailwindcss.com/">tailwindcss</a> into my project. 
 
 4. **Screenshots of the Frontend**
+    - Here is a screenshot of how the page initally looks like:
     - <div align="center">
         <img src="layouts/images/screenshot-01.png" alt="Screenshot" >
+    </div>
+    - Here is a screenshot of the results from the searchbar. 
+    - <div align="center">
+        <img src="layouts/images/screenshot-02.png" alt="Screenshot" >
     </div>
 
 
