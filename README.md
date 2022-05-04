@@ -31,7 +31,7 @@ I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2
 
 4. **Screenshots of the Frontend**
     - <div align="center">
-        <img src="../screenshot-01.png" alt="Screenshot" >
+        <img src="images/screenshot-01.png" alt="Screenshot" >
     </div>
 
 
