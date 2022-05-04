@@ -1,7 +1,6 @@
 
 ## Table of Contents
-1. [**UX**](#ux)
-    - [**Project Goals**](#project-goals)
+1. [**Project Goals**](#project-goals)
 
 2. [**Features**](#features)
 
@@ -29,6 +28,11 @@ I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2
 
 3. **Installed tailwindcss**
     - I integrated <a href="https://tailwindcss.com/">tailwindcss</a> into my project. 
+
+4. **Screenshots of the Frontend**
+    - <div align="center">
+        <img src="images/screenshot-01.png" alt="Screenshot" >
+    </div>
 
 
 ## Technologies and Code Used
