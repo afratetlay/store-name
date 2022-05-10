@@ -39,6 +39,16 @@ I recreated the <a href="https://stores.sainsburys.co.uk/list/place/@53.47949,-2
         <img src="layouts/images/screenshot-02.png" alt="Screenshot" >
     </div>
 
+    - Here is a screenshot of the data I added into PHPMyadmin:
+    - <div align="center">
+        <img src="layouts/images/screenshot-three-section.png" alt="Screenshot" >
+    </div>
+
+    - Here is a screenshot of retrieving the data.
+    - <div align="center">
+        <img src="layouts/images/screenshot-four-section.png" alt="Screenshot" >
+    </div>
+
 
 ## Technologies and Code Used
 
